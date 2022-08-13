@@ -10,6 +10,9 @@ Todos os dias surgem novas tecnologias, porém, nem sempre as soluções apresen
 # Status do projeto
 Atualmente o site já conta com apresentação do escopo do projeto, implamentação de cadastro de usuários e pontos de coleta com registro, busca e edição feitas com MySQL através do Heroku.
 
+# Link:
+https://mariocesarcf.github.io/TechTeamProject/
+
 # Tecnologias Utilizadas:
 <p> <img src="https://raw.githubusercontent.com/Wellpt/TechTeamProject/ea8b4dc3b6f1aee6a1887fedbf2771311766d34a/Imagens/links%20readme/html-5.svg" width="50px" height="50px" name="HTML5"> <img src="https://raw.githubusercontent.com/Wellpt/TechTeamProject/ea8b4dc3b6f1aee6a1887fedbf2771311766d34a/Imagens/links%20readme/JS.svg" width="50px" height="50px"> <img src="https://raw.githubusercontent.com/Wellpt/TechTeamProject/ea8b4dc3b6f1aee6a1887fedbf2771311766d34a/Imagens/links%20readme/mysql.png" width="50px" height="50px"><img src="https://raw.githubusercontent.com/Wellpt/TechTeamProject/ea8b4dc3b6f1aee6a1887fedbf2771311766d34a/Imagens/links%20readme/css-3.svg" width="50px" height="50px"><img src="https://raw.githubusercontent.com/Wellpt/TechTeamProject/ea8b4dc3b6f1aee6a1887fedbf2771311766d34a/Imagens/links%20readme/github2.svg" width="50px" height="50px"><img src="https://raw.githubusercontent.com/Wellpt/TechTeamProject/ea8b4dc3b6f1aee6a1887fedbf2771311766d34a/Imagens/links%20readme/heroku.png" width="50px" height="50px"></p>
 
